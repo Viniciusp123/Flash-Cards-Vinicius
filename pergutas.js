@@ -1,20 +1,20 @@
 criaCartao(
-    'Conhecimento',
+    'Conhecimentos ',
     'Quanto tempo a luz do Sol demora para chegar à Terra?',
     '8 minutos'
 )
 criaCartao(
-    'Conhecimento',
+    'Hitoria',
     'Em que ano o homem pisou na lua?',
     '1969'
 )
 criaCartao(
-    'Conhecimento',
+    'Curiosidades',
     'Qual ave é capaz de bater as asas até 200 vezes por segundo?',
     'O beija-flor'
 )
 criaCartao(
-    'Conhecimento',
+    'Ciencias',
     'Quantos ossos temos no nosso corpo?',
     '206'
 )
@@ -39,12 +39,12 @@ criaCartao(
     'handebol ou polo aquático.'
 )
 criaCartao(
-    'Conhecimentos gerais',
+    'Quimica',
     'O que é mais pesado: 1 quilo de algodão ou 1 quilo de ferro?',
     'Os dois pesam a mesma quantidade: 1 quilo.'
 )
 criaCartao(
-    'Conhecimentos gerais',
+    'Conhecimento',
     'Quantas teclas tem um piano?',
     '88.'
 )
