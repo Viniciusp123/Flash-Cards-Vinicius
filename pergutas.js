@@ -29,22 +29,22 @@ criaCartao(
     'Pelé'
 )
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'Biologia',
+    'O que é filantropo?',
+    'Pessoa que pratica a caridade.'
 )
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'Esporte',
+    'Em qual esporte são usadas as mãos para fazer gol?',
+    'handebol ou polo aquático.'
 )
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'Conhecimentos gerais',
+    'O que é mais pesado: 1 quilo de algodão ou 1 quilo de ferro?',
+    'Os dois pesam a mesma quantidade: 1 quilo.'
 )
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'Conhecimentos gerais',
+    'Quantas teclas tem um piano?',
+    '88.'
 )
