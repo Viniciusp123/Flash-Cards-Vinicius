@@ -24,12 +24,12 @@ criaCartao(
     'Vaticano'
 )
 criaCartao(
-    'conhecimento gerais',
+    'Conhecimento gerais',
     'Por qual apelido ficou conhecido o jogador de futebol Edson Arantes?',
     'Pelé'
 )
 criaCartao(
-    'Biologia',
+    'Conhecimento',
     'O que é filantropo?',
     'Pessoa que pratica a caridade.'
 )
